@@ -3,6 +3,7 @@
 ## AIM:
 To write a python program to find the inverse of a matrix.
 
+
 ## ALGORITHM:
 ### Step 1:
 Import Numpy module as np.
@@ -17,6 +18,10 @@ Print the inverse of the array using np.linalg.inv
 
 ## PROGRAM:
 ```
+To write a python program to find the inverse of a matrix.
+Developed by: Anitha P
+Register Number: 21500186
+
 import numpy as np
 rows=int(input())
 columns=int(input())
